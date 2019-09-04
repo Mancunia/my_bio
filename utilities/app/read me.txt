@@ -1,0 +1,2 @@
+.User will use this to interact with the app
+.All user functionalities(APIs) will be here
